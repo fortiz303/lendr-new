@@ -1,0 +1,16 @@
+BACKEND
+
+1.updated bcrypt / knex/ pg 
+2.also updated some other dependencyies
+3.for testing postgreSQL info is written here "knexfile.js"
+4.before run make sure client side has build folder 
+5.just run npm run start
+
+
+CLIENT
+
+1.updated most packages
+2.npm run build-js (put js files to build folder)
+3.npm run build-css (put cs files to build folder)
+2.to run from server (BACKEND NODE)
+make sure you have build folder with files in it
